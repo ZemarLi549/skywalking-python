@@ -24,3 +24,6 @@ make install
 ``` 
 
 **NOTE** that because we use Git submodule, the aforementioned commands don't apply if you download the source codes (`.tgz`) from our official website.
+
+#### Q:When i using the @trace decrator ,bug appear as follow,how to fix it?
+'_thread._local' object has no attribute 'context' 
